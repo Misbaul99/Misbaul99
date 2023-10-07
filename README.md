@@ -12,7 +12,14 @@
  <li>Ask me About drag&drop system app (GlideApp.io)</li>
  <li>How to reach me misbaul99@gmail.com</li>
 
- jembud
+ <div style='text-align:center'>
+    <a href="#" title="Stats">
+        <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=misbaululum&show_icons=true&count_private=true&theme=gotham">
+    </a>
+    <a href="#" title="Stats">
+        <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbaululum&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=10&layout=compact" />
+    </a>
+</div>
 </ul>
 <!---
 Misbaul99/Misbaul99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
